@@ -1,0 +1,21 @@
+{
+  "name": "apcupsd",
+  "version": "0.1.1",
+  "author": [
+    "Scott Ballantyne <scottballantyne@protonmail.com>"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ballantyne/apcupsd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ballantyne/apcupsd/issues"
+  },
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
